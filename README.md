@@ -1,3 +1,5 @@
+This is a command line launcher script for [this command line modpack installer](https://github.com/cdbbnnyCode/modpack-installer). Since the curseforge API change this launcher does not work. If you want to pick up that project, feel free to do so.
+
 ## CurseForge Modpack Installer  
 ###### V2.2.1-beta
 This command-line tool allows easy installation of CurseForge modpacks on Linux
